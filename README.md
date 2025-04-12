@@ -74,9 +74,7 @@ Feel free to reach me at **support@techwithgbenga.com** or connect on my social 
 
 ---
 
-<br clear="both">
-
-🚧 my todoist stats:
+## my todoist stats:
 
 - 9,004 Karma Points
 - Completed 0 tasks today
@@ -84,3 +82,5 @@ Feel free to reach me at **support@techwithgbenga.com** or connect on my social 
 - Longest streak is 10 days
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+---
