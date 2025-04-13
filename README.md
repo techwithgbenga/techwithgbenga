@@ -35,7 +35,8 @@ I’m a passionate full stack developer with a knack for building innovative, us
 ## Projects & Contributions
 
 - **Current Work:**  
-  - [Kariux AI](https://github.com/techwithgbenga/kariux-ai)  
+  - [Kariux AI](https://github.com/techwithgbenga/kariux-ai)
+  - [OSCTIP](https://github.com/techwithgbenga/osctip)
   - [NexHome IoT](https://github.com/techwithgbenga/nexhome-iot)
 - **Portfolio:**  
   Visit my [website](https://techwithgbenga.com/) for an overview of my work.
@@ -80,5 +81,3 @@ Feel free to reach me at **support@techwithgbenga.com** or connect on my social 
 - Completed 0 tasks today
 - Completed 973 tasks so far
 - Longest streak is 10 days
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
