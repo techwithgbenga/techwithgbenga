@@ -61,6 +61,5 @@ Feel free to reach me at **support@techwithgbenga.com** or connect on my social 
 ## My Todoist Stats:
 
 - 9,004 Karma Points
-- Completed 0 tasks today
-- Completed 973 tasks so far
-- Longest streak is 10 days
+- Completed 10 tasks today
+- Longest streak is 30 days
