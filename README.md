@@ -21,6 +21,7 @@ I’m a passionate full stack developer with a knack for building innovative, us
   - [OSCTIP](https://github.com/techwithgbenga/osctip)
   - [Kariux AI](https://github.com/techwithgbenga/kariux-ai)
   - [Shopiap](https://github.com/techwithgbenga/shopiap)
+  - [SEO Chrome Extension](https://github.com/techwithgbenga/seo-suite)
 - **Portfolio:**  
   Visit my [website](https://techwithgbenga.com/) for an overview of my work.
 - **Writing:**  
