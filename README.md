@@ -17,10 +17,10 @@ I’m a passionate full stack developer with a knack for building innovative, us
 
 ## Projects & Contributions
 
-- **Current Work:**  
-  - [Kariux AI](https://github.com/techwithgbenga/kariux-ai)
+- **Current Work:**
   - [OSCTIP](https://github.com/techwithgbenga/osctip)
-  - [NexHome IoT](https://github.com/techwithgbenga/nexhome-iot)
+  - [Kariux AI](https://github.com/techwithgbenga/kariux-ai)
+  - [Shopiap](https://github.com/techwithgbenga/shopiap)
 - **Portfolio:**  
   Visit my [website](https://techwithgbenga.com/) for an overview of my work.
 - **Writing:**  
