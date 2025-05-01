@@ -3,7 +3,7 @@
 
 ## About Me
 
-I’m a passionate full stack developer with a knack for building innovative, user-centric digital solutions. My journey spans developing high-quality projects—from exploring advanced Machine & Deep Learning techniques to collaborating on Web3 innovations and IoT initiatives. I'm always eager to learn, grow, and partner with like-minded professionals.
+I’m a passionate full stack developer with a knack for building innovative, user-centric digital solutions. My journey spans developing high-quality projects from exploring advanced Machine & Deep Learning techniques to collaborating on Web3 innovations and IoT initiatives. I'm always eager to learn, grow, and partner with like-minded professionals.
 
 ---
 
