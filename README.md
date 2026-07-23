@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Gbenga Afenuvon</h1>
-<h3 align="center">Full Stack Developer & Digital Marketing Enthusiast from Nigeria</h3>
+<h3 align="center">Chief Technology Officer</h3>
 
 ## About Me
 
-I’m a passionate full stack developer with a knack for building innovative, user-centric digital solutions. My journey spans developing high-quality projects from exploring advanced Machine & Deep Learning techniques to collaborating on Web3 innovations and IoT initiatives. I'm always eager to learn, grow, and partner with like-minded professionals.
+I am a technology leader, software engineer, digital marketing professional, and innovator passionate about building scalable digital products, driving business growth, and leading high-performing teams. With expertise in software architecture, cloud technologies, AI-driven solutions, digital marketing, and product development, I bridge the gap between technology and market strategy to transform ideas into impactful technology businesses.
 
 ---
 
