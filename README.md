@@ -18,7 +18,8 @@ I am a technology leader, software engineer, digital marketing professional, and
 ## Projects & Contributions
 
 - **Current Work:**
-  - [SEO Chrome Extension](https://github.com/techwithgbenga/seo-suite)
+  - [PRAXIS](https://github.com/techwithgbenga/praxis)
+  - [SEO Chrome Extension](https://github.com/techwithgbenga/seo-suite](https://chromewebstore.google.com/detail/queryquake-seo-suite/lljmcdanjgkglcjmheliobchmpkboiek)
 - **Portfolio:**  
   Visit my [website](https://techwithgbenga.com/) for an overview of my work.
 - **Writing:**  
